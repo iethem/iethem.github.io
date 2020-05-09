@@ -1,0 +1,27 @@
+- name: Git
+  percentage: 70
+  color: danger
+
+- name: Linux
+  percentage: 85
+  color: primary
+
+- name: Docker
+  percentage: 85
+  color: dark
+
+- name: Kubernetes
+  percentage: 75
+  color: primary
+
+- name: Firebase
+  percentage: 75
+  color: warning
+
+- name: Visual Studio Code
+  percentage: 90
+  color: primary
+
+- name: Eclipse
+  percentage: 80
+  color: success

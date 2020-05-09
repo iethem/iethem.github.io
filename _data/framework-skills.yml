@@ -1,0 +1,19 @@
+- name: Spring Boot
+  percentage: 75
+  color: success
+
+- name: Quarkus
+  percentage: 50
+  color: danger
+
+- name: React/React-Native
+  percentage: 85
+  color: primary
+
+- name: Redux/Saga
+  percentage: 85
+  color: info
+
+- name: Node.js
+  percentage: 70
+  color: success
