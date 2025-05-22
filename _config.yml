@@ -1,8 +1,7 @@
 ### Site Settings ###
 title               : ibrahim ethem topçu
 description         : >-
-                      "I love banana :banana: and coding,
-                      use tabs over spaces."
+                      "I like making working things with a focus on simplicity."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : iethem/iethem.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
